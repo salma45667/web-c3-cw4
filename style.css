@@ -1,0 +1,15 @@
+.container{
+    background-color: darkgray;
+    width: 400px;
+    height: 200px;
+    padding: 8px;
+    margin: 10px;
+}
+.card{
+    background-color: lightblue;
+    width: 400px;
+    height: 200px;
+    border: 20px solid yellow ;
+    border-radius: 50%;
+    box-shadow: 3px 6px 8px purple;
+}
